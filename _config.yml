@@ -1,7 +1,7 @@
 # Site
-name: "Dat Thanh Nguyen"
-title: "Dat Thanh Nguyen personal website"
-description: "Nơi chia sẽ về con Tin Sinh Học"
+name: "datn"
+title: "Dat T Nguyen personal website"
+description: "Nơi chia sẽ về Tin Sinh Học"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
@@ -54,7 +54,7 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-highlighter: none
+highlighter: rouge
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
