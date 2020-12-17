@@ -1,7 +1,7 @@
 # Site
 name: "datn"
 title: "Dat T Nguyen personal website"
-description: "Nơi chia sẽ về Tin Sinh Học"
+description: "Biết đủ là hạnh phúc ..."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
@@ -58,7 +58,7 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
-      disable : true
+      disable : false
 
 
 
