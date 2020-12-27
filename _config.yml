@@ -55,13 +55,11 @@ paginate: 10
 paginate_path: /page:num/
     
 # Other
-highlighter: rouge
+highlighter: none
 markdown: kramdown
 kramdown:
-  hard_wrap: false 
-  syntax_highlighter: rouge
   syntax_highlighter_opts:
-  disable : false
+  disable : true
   Kramdown::Document.new(text, syntax_highlighter: :coderay).to_html
 
 
