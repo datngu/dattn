@@ -60,7 +60,6 @@ markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
   disable : true
-  Kramdown::Document.new(text, syntax_highlighter: :coderay).to_html
 
 
     
