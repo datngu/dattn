@@ -9,9 +9,6 @@ image: assets/my_figs/sweden/se07.jpeg
 
 Mỗi năm tháng 10 sắp về là giới học giả lại nháo nhào hóng coi năm nay công trình gì được giải Nobel. Nhân dịp thứ 5 vừa rồi được 1 người anh từ VN sang SE để công tác và sẵn dịp nghé thăm mình luôn, 2 a e có đi thăm 1 số bảo tàng và có vài điều hay về bảo tàng Nobel mà mình thấy muốn chia sẽ.
 
-![Bản di chúc của Alfred Nobel]({{ site.baseurl }}/assets/my_figs/sweden/se08.jpeg)
-__Bản di chúc của Alfred Nobel__
-
 1. Nobel ko có vợ, không có con, giải thưởng gồn 5 lĩnh vực: Vật lý, hóa học, y sinh, văn học và hòa bình.
 Lý do tại sao ko có các giải khác là gì do ông ta thích vậy, di chúc như vậy. Ko có giải thích gì khác hơn. Chắc đó là đặc quyền của người có nhiều tiền? (Cái này do mình nghĩ vậy).
 2. Không có giải Nobel kinh tế, mà chỉ là giải thưởng   được thành lập vào 1968 để tưởng nhớ Nobel và có tên đầy đủ là "Nobel Memorial Prize in Economic Sciences". Tiền trao thưởng được tài trợ bởi Sweden's  central bank.
@@ -22,6 +19,11 @@ Lý do tại sao ko có các giải khác là gì do ông ta thích vậy, di ch
 7. Mery Curie là người duy nhất đc giải ở 2 lĩnh vực khác nhau (Vật Lý và Hóa học), bà qua đời vì suy tủy do nghiên cứu các chất phóng xạ. Gia đình này có tổng cộng 5 giải Nobel. Có cả con cháu gì nữa, mình ko nhớ rõ lắm. Nhưng nên nghiêng mình trước gia đình này vị sự hy sinh cho khoa học đúng ko nào??
 8. Huy chương Nobel làm từ 150g vàng 18, giá trị của nó tùy thuộc vào tên khắc trên đó. Nếu của M Curie thì có ng sẵn sàng mua 100tr Mỹ kim cho 1 cặp. Còn nếu bạn là prof ở UC Bekerley mà có nó thì được 1 chỗ parking xe hơi ở khuôn viên, đỡ phải đi bộ...
 9. Lễ trao giải chính thức diễn ra chiều ngày 10/10 giờ TĐ hằng năm, bất kể mưa hay nắng, chủ nhật hay thứ 7, nhằm tưởng niệm ngày mất của Nobel.
+
+
+![Bản di chúc của Alfred Nobel]({{ site.baseurl }}/assets/my_figs/sweden/se08.jpeg)
+__Bản di chúc của Alfred Nobel__
+
 
 ![Huy chương Nobel trông thế nào?]({{ site.baseurl }}/assets/my_figs/sweden/se09.jpeg)
 __Huy chương Nobel trông thế nào?__
