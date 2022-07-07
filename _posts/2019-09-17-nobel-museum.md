@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello Sweden!"
+title:  "The Nobel Museum!"
 author: dat
 categories: [ Sweden Stories ]
 image: assets/my_figs/sweden/se07.jpeg
