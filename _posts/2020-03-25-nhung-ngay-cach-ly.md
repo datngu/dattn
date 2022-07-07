@@ -3,7 +3,7 @@ layout: post
 title:  "Những ngày cách ly!"
 author: dat
 categories: [ Sweden Stories ]
-image: assets/my_figs/sweden/se01.jpeg
+image: assets/my_figs/sweden/se10.jpeg
 
 ---
 
