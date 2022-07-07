@@ -1,7 +1,7 @@
 # Site
 name: "datn"
-title: "Dat T Nguyen personal website"
-description: "Một blog về Tin Sinh Học ..."
+title: "Dat T Nguyen"
+description: "Where my stories are collected..."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
@@ -11,7 +11,7 @@ mailchimp-list: 'https://datnt.us7.list-manage.com/subscribe?u=3be95e9ff8d5d4544
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: n.dat@outlook.com
+email: ndat<at>utexas.edu
 
 # Authors
 authors:
