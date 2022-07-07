@@ -17,11 +17,11 @@ email: ndat<at>utexas.edu
 authors:
   dat:
     name: Dat
-    display_name: Dat T Nguyen
+    display_name: Dat
     gravatar: 4c10ff28fe545b751bc552248d938859
     email: n.dat@outlook.com
     web: https://dattn.com/
-    twitter: https://dattn.com/
+    twitter: https://twitter.com/ndatth_
     description: "Dat is a computational biologist, a data scientist specilized in medical science."
 # Plugins
 plugins:
@@ -41,7 +41,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 10
+paginate: 20
 paginate_path: /page:num/
     
 # Other
