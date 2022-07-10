@@ -25,6 +25,7 @@ Làm sao để chống lại cả thế giới khi cả thế giới khi ấy lu
 
 Dù chương trình ths này học hành tào lao và ko ra gì : )) có lần mình nói thẳng mặt với các GS ở đh TAU danh giá là chương trình này là lừa đảo : ) Nhìn mặt người  thầy tốt nhất địa trung hải cuối mặt ko trả lời được gì thì cũng tội , nhưng mình cũng kệ : )) dù vậy nhưng mình vẫn hay giới thiệu cho vài người về chương trình này với câu nói nửa thật nửa đùa : )) Hardvard hay MIT thì tuổi gì với West Point phiên bản Israel : ). Tại sao lại là nửa thật nửa đùa : ) nó là ở chính bản thân chúng ta gục đầu cuối mặt hay sẵn sàng đương đầu với thử thách : ) Kiếm đâu ra cơ hội để đối đầu với sự khôn lỏi của dân do thái ngoài nơi đây : ))
 
+
 Hồi lễ tốt nghiệp cho khóa trước của mình, thầy hiệu phó TAU danh giá có hỏi : ) chương trình đã thay đổi tụi mày và đất nước mày như thế nào : ) còn mày có làm gid để thay đổi thay đổi lại chương trình và Israel ko : )) Dù mọi người hay nói mình tiêu cực : ) nhưng mình vẫn hay tự hào vì có những ảnh hưởng làm cho chương trình này trở nên tích cực và trở thành cái nó nêm trở thành : )
 Bây giờ, sau 2 năm mà nhìn lại thì... Nói gì thì nói thì nó cũng cảm ơn và trân trọng  tất cả, ngoài những kỹ năng sống mà Hardvard và MIT cũng ko thể dạy được thì nơi này cũng để lại những kỷ niệm đẹp (dù chỉ là tự tưởng tượng) : )) nơi làm cho biết chụp ảnh, biết bơi, và biết ngắm sao với bạn trai : )
 
@@ -34,5 +35,7 @@ Mình ngồi bên nhau nghe tiếng chuông chùa
 Bình yên tựa nghe câu hát xa đưa
 Mình ngồi bên nhau dưới ánh sao mờ : "...
 
+
 Chú thích: mình hay gọi program này là West Point vì nó tra tấn thể xác và tinh thần kinh khủng khiếp : )
+
 Dat - Stockholm - 19 10 2019
