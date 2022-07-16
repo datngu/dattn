@@ -22,7 +22,7 @@ Mình còn nhớ bài giảng về tâm lý học xã hội của một ông gi�
 
 
 ![Đạt ở do thái]({{ site.baseurl }}/assets/my_figs/israel/d02.jpeg)
-__Me and at Israel__
+__Me and Israel__
 
 
 Nếu nhìn do thái chống dịch covid, mình phải khen do thái xuất sắc, trong khi vacince trên thế giới còn mới sx ra, thời cuối 2020 cường quốc như Us, Uk còn vật vã deal với covid vì ko có vacine thì do thái đã mua được số lượng lớn vacine và thực hiện tiêm chủng quy mô lớn để đầu tháng 3/2021 trở thành quốc gia đầu tiên trên thế giới đạt miễn dịch cộng đồng : )). Mình thật ko thể hiểu vì sao do thái làm được như thế : )) Do thái thật không tầm thường!
