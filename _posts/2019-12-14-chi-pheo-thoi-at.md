@@ -3,7 +3,7 @@ layout: post
 title:  "Chí Phèo thời @"
 author: dat
 categories: [ Vietnam Stories ]
-image: assets/my_figs/vietnam/01.jpg
+image: assets/my_figs/vietnam/01.jpeg
 
 ---
 
