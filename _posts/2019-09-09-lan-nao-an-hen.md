@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Chí Phèo thời @"
+title:  "Lần nào ăn hên?"
 author: dat
 categories: [ Random thoughts ]
-image: assets/my_figs/vietnam/01.jpeg
+image: assets/my_figs/vietnam/02.jpeg
 
 ---
 
