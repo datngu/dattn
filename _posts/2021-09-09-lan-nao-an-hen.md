@@ -9,22 +9,13 @@ image: assets/my_figs/vietnam/02.jpeg
 
 
 
-Hồi học ở cấp 3 trường làng, mình có nghe 1 câu quen thuộc mà mấy bạn hay nói là: ở trường NH này thì thứ nhất là quan hệ, thứ nhì là tiền tệ, còn lại thì mặc kệ : ))
+Những ai có thành tựu ở những tháng ngày nhỏ tuổi hay nghĩ mình có tài... Còn những người có được thành công ở tuổi cao niên thường hay nghĩ là do mình may mắn... Mình đọc những dòng này đâu đó trên mạng từ thầy mình, và nó làm mình suy nghĩ : ))
 
+Có lẽ những tháng ngày trầy trật đã làm cho con người ta biết quý trọng may mắn và biết khiêm tốn hơn chăng? Dù năng lực, quyết đoán và sự nỗ lực là không thể thiếu cho sự thành công của 1 cá nhân, gia đình, công ty hay kể cả 1 đất nước.
+Suy đi ngẫm lại, để thành công rực rỡ thì đúng là khó, để đứng bét bảng thành tích cũng khó y chang đứng nhất bảng vậy. Dân statistics hay nói vui là muốn trở thành người ngu nhất hay giỏi nhất cũng đều ko hề đơn giản, nếu muốn xếp bét thì đơn giản là phải kém hơn và ngu hơn rất nhiều thằng... Trong 1 bài thi, nói vui là ông làm đc 10 điểm và 0 điểm giỏi như nhau, vì ông 10 điểm phải biết hết tất cả các đáp án đúng để khoanh còn ông 0 điểm cũng phải biết tất cả đáp án đúng... Để né..
 
-Bẵn đi 1 thời gian gần 10 năm trời, dạo gần đây lại toàn nghe kiểu : ) học để làm gì : ) học nhiều để làm chi, ra đường phải biết lươn lẹo, muốn sống được phải có quan hệ và biết vận dụng tiền tệ.
+Mấy hôm nay mình lướt báo nhật thấy xx được vinh dự đứng hạng #1 từ dưới đếm lên sau những thang ngày ngạo nghễ chê cười thiên hạ... Ngẫm đi ngẫm lại mình nể ông này ghê... Giữa 2 lần đứng nhứt... Mình không biết lần nào là ăn hên... 
+Nhưng đời buồn ở chỗ, bụng làm thì dạ chịu, mũi dại thì lái lại chịu đòn... Ko biết ông nào cố tình làm bài cho 0 điểm và ai sẽ được lợi cho bài thi ấy, nhưng mình cảm thông sâu sắc với những cái "dạ" phải chịu những đòn đau thương mất mát cho bài thi 0 điểm ấy...
 
-
-Có người đỗ lỗi thực tại xã hội là do quản lý yếu kém. Có người đỗ lỗi do dân chúng tự hại / lừa nhau  vì muốn giàu nhanh : ). Có bạn còn ví dụ hết sức trực quan, kiểu như con cái : ) nó ăn chơi lêu lỏng trác tán thì có cha mẹ có muốn vậy đâu : )) Nhà quản lý cũng thế thôi, cũng bất lực vì những đứa con hư, mày nói giỏi thì lên làm đi : ))
-
-
-Mình thì không có ý kiến gì, vì ai cũng đúng và ai cũng hổ báo : )) Nhưng nhìn xã hội hiện tại thì mình chỉ nhớ đến Chí Phèo với câu kinh điển là : Ai cho tôi lương thiện : )). Mình không có nhận xét gì : ) nhưng mình thấy mấy bạn mình muốn xklđ cũng bị ăn chặn  5 ngăn 7 lớp : ) Trà My chỉ là 1 câu chuyện điển hình của trăm ngàn câu chuyện không vui : )) 
-
-
-So sánh với cha mẹ mình nghĩ là vô lý và ngụy biện. Vì cha mẹ không thể ép được con mình phải ngoan phải giỏi, nhưng cha mẹ luôn tạo cho con cơ hội, cho con có sự lựa chọn để trở thành người tử tế : )) Sự lựa chọn là ở bản thân mỗi người : ) Sau này làm cha thì mình cũng chỉ cố cho con mình nhiều lựa chọn nhất, vậy thôi : )
-
-
-Về chuyện học thì cũng vậy : ) có thể nó không hữu ích trong 1 số hoàn cảnh : ) nhưng nó sẽ cho bạn thêm sự lựa chọn : ) Học vấn không đảm bảo cho sự giàu có, nhưng mình luôn tin rằng học hành nghiêm túc luôn cho mình thêm sự lựa chọn và cơ hội để sống tử tế cũng như gặp gỡ nhiều người tử tế hơn : )
-
-
-Quay lại ví dụ trực quan về mối liên hệ giữa con hư và sự kỳ vọng của cha mẹ : ) Mình nghĩ, nếu cho 1 đứa trẻ nhìn thấy 2 options 1 tiếp tục ra đồng cắt cỏ chăn bò và 2 là đi học cho an nhàn hơn thì mình nghĩ đã đa số sẽ chọn:  học học học : ))))
+Những cột điện ngày ấy ko biết giờ ra sao? chắc lại mọc chân đi hết rồi... Chỉ tội những cây tre, bụi chuối ngậm ngùi ko đi được...
+Ps: Dù sau, dưới góc nhìn normal distribution, ông xx này rất đáng được vinh danh...
