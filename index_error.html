@@ -6,8 +6,14 @@ title: Home
 <!-- Posts Index
 ================================================== -->
 <div class="blog-grid-container">
-    {% for post in paginator.posts %}
-        {% include postbox.html %}
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include postbox.html %}
+
+        {% endif %}
+
     {% endfor %}
 </div>
 
