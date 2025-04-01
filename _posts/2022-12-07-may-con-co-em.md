@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "“May còn có emmmmmmmm!"
+title:  "“May còn có emmmmmmmm!”"
 author: dat
 categories: [ My Norway ]
 image: assets/my_figs/norway/winter-2022-as.JPG
